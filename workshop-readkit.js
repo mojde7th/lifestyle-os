@@ -78,8 +78,32 @@ window.WorkshopReadkit = function (cfg) {
       if (isCode(x)) html += '</ol><pre class="src" dir="ltr">' + esc(x) + "</pre><ol class=\"steps\">";
       else html += "<li>" + x + "</li>";
     });
+    html += "</ol>";
+    if (p.g && p.g.length) {
+      html += '<div class="gal">';
+      p.g.forEach((im) => {
+        const href = im.href || im.src || "#";
+        const src = im.src || im.href || "";
+        const cap = im.cap || im.id || "";
+        const id = im.id || "";
+        html +=
+          '<a class="gal-item" href="' +
+          href +
+          '" download target="_blank" rel="noopener">' +
+          (src
+            ? '<img src="' + src + '" alt="' + cap + '" loading="lazy"/>'
+            : "") +
+          '<span class="gal-id" dir="ltr">' +
+          id +
+          "</span>" +
+          '<span class="gal-cap">' +
+          cap +
+          "</span></a>";
+      });
+      html += "</div>";
+    }
     html +=
-      '</ol><div class="flags" data-id="p' +
+      '<div class="flags" data-id="p' +
       i +
       '"></div>';
     if (cfg.notes !== false) {
