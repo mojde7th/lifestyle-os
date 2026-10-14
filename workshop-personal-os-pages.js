@@ -5,7 +5,7 @@ window.PERSONAL_OS_PAGES = [
     "l": "",
     "s": [
       "دو فایل قدیمی دایره‌المعارف بودند. این یکی صفحه‌به‌صفحه است مثل کارگاه ناماپروژه.",
-      "روی هر عکس بزن تا بندانگشتی دانلود شود. فایل کامل فقط روی همین رایانه است.",
+      "روی هر عکس بزن تا فایل کامل دانلود شود. بندانگشتی فقط برای دیدن است.",
       "هدف بدنی: چهار کیلو چربی کمتر و چهار کیلو عضله بیشتر با دو جلسه فانکشنال و مکمل‌های موجود.",
       "مدارک پزشکی و وام را به گیت‌هاب نفرستادم.",
       "صفحه آخر چیزهایی است که نخواندم یا مطمئن نیستم."
@@ -37,6 +37,14 @@ window.PERSONAL_OS_PAGES = [
       "تو چهار به چهار می‌خواهی؛ جاه‌طلبانه‌تر از دستگاه.",
       "وزن ممکن است همان بماند. موفقیت: دور کمر، عدد وزنه، اسکن بعدی.",
       "اسکن بعدی همان کلینیک، همان ساعت، ناشتا، بعد از هشت تا دوازده هفته."
+    ],
+    "g": [
+      {
+        "id": "IMG_2115",
+        "cap": "این‌بادی ۲۷۰",
+        "src": "_thumbnails/08_Medical_Records/IMG_2115_thumb.jpg",
+        "href": "_thumbnails/08_Medical_Records/IMG_2115_thumb.jpg"
+      }
     ]
   },
   {
@@ -514,6 +522,327 @@ window.PERSONAL_OS_PAGES = [
       "کارت یا پیامک نوبت را ببر و تاریخ دوز اول را بگو.",
       "اگر بین دو دوز کرونا گرفته‌ای معمولاً چند هفته بعد از بهبود دوز دوم را می‌زنند.",
       "این صفحه نسخه نیست. تصمیم با مرکز واکسیناسیون است."
+    ]
+  },
+  {
+    "t": "روتین ساعت‌به‌ساعت — روز پشت میز",
+    "d": "فردا همین ساعت‌ها را در تقویم بگذار؛ یک دقیقه جابه‌جایی مجاز است.",
+    "l": "",
+    "s": [
+      "۰۶:۰۰ بیدار — خط قرمز. یک دقیقه دیر = پنج دقیقه نشستن، نه مذاکره.",
+      "۰۶:۰۵ آب. ۰۶:۱۰ آیروسینو یا قهوه تلخ — سه اولویت کد روی کاغذ.",
+      "۰۶:۲۰ تا ۰۹:۰۰ بلوک عمیق اول — اعلان خاموش؛ فستینگ تا پنجره.",
+      "هر ۴۵ دقیقه: دو دقیقه راه رفتن + کشش تنه.",
+      "۰۹:۰۰ تا ۱۲:۰۰ بلوک دوم — جلسات فقط اگر اجباری؛ بقیه کد.",
+      "۱۲:۰۰ تا ۱۳:۰۰ ناهار سبک اگر پنجره باز است؛ وگرنه فقط آب و چای.",
+      "۱۳:۰۰ تا ۱۷:۰۰ بلوک سوم — قبل ۱۷ سوشال و چت کاری.",
+      "۱۷:۰۰ ناهار کلینیک یا اولین وعده پنجره — پروتئین اول.",
+      "۱۸:۰۰ تا ۱۹:۳۰ باشگاه اگر روز جلسه؛ وگرنه پیاده‌روی ۴۰ دقیقه.",
+      "۲۰:۰۰ شام/میان‌وعده طبق برگه — وی اگر شکاف.",
+      "۲۱:۳۰ خاموشی زیر ۳۰ دقیقه: انرژی، غذا فردا، سه کار.",
+      "۲۲:۰۰ بستن پنجره غذایی اگر برنامه ۲۲→۱۷ است.",
+      "جایگزین ترند «۵ صبح club»: همان ساختار با بیدار ۰۶:۳۰ و یک بلوک ۹۰ دقیقه‌ای."
+    ],
+    "g": [
+      {
+        "id": "IMG_3175",
+        "cap": "آیروسینو ۳ — بدنه",
+        "src": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3175_thumb.jpg",
+        "href": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3175_thumb.jpg"
+      },
+      {
+        "id": "IMG_3300",
+        "cap": "بیدار شدن خط قرمز",
+        "src": "_thumbnails/20_Redline_Rules_Screens/IMG_3300_thumb.jpg",
+        "href": "_thumbnails/20_Redline_Rules_Screens/IMG_3300_thumb.jpg"
+      },
+      {
+        "id": "IMG_2532",
+        "cap": "خرده‌عادت و دیباگر کار",
+        "src": "_thumbnails/10_Habits_Mind_Notes/IMG_2532_thumb.jpg",
+        "href": "_thumbnails/10_Habits_Mind_Notes/IMG_2532_thumb.jpg"
+      },
+      {
+        "id": "IMG_2533",
+        "cap": "بازبینی روزانه",
+        "src": "_thumbnails/10_Habits_Mind_Notes/IMG_2533_thumb.jpg",
+        "href": "_thumbnails/10_Habits_Mind_Notes/IMG_2533_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "t": "روتین ساعت‌به‌ساعت — روز باشگاه",
+    "d": "روز جلسه را از شب قبل آماده کن: کیف، وی، ساشه.",
+    "l": "",
+    "s": [
+      "شب قبل: لباس، بطری، ساشه در کیف؛ ساعت ۱۷ در یادداشت.",
+      "صبح مثل روز پشت میز تا ۱۶:۳۰ — بلوک کد کوتاه‌تر اگر خسته‌ای.",
+      "۱۶:۰۰ میان‌وعده پروتئینی کوچک فقط اگر کلینیک اجازه داده.",
+      "۱۶:۳۰ رفتن — ۹۰ دقیقه: گرم، قدرت، نفس، سرد.",
+      "۱۸:۳۰ وی یا جاست پروتئین در پنجره.",
+      "۱۹:۰۰ ناهار اصلی — نیمی بشقاب پروتئین.",
+      "شب: کشش ۱۰ دقیقه، خواب ۷–۸ ساعت.",
+      "روز بعد باشگاه نرو: قدم ۸–۱۰ هزار، نه دو جلسه پشت‌سرهم.",
+      "جایگزین کلاس شلوغ: همان الگوهای اسکوات/هل/کشش با وزنه آزاد."
+    ],
+    "g": [
+      {
+        "id": "IMG_2240",
+        "cap": "میان‌وعده و شام + روزه",
+        "src": "_thumbnails/09_Clinic_Nutrition/IMG_2240_thumb.jpg",
+        "href": "_thumbnails/09_Clinic_Nutrition/IMG_2240_thumb.jpg"
+      },
+      {
+        "id": "IMG_2151",
+        "cap": "جاست پروتئین — پشت",
+        "src": "_thumbnails/02_Protein_Sports/IMG_2151_thumb.jpg",
+        "href": "_thumbnails/02_Protein_Sports/IMG_2151_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "t": "سبک خرید — کمتر ولی درست",
+    "d": "قبل از هر خرید این سه سؤال را بپرس.",
+    "l": "",
+    "s": [
+      "آیا به لایهٔ هویت/خط قرمز/سوخت/محرک/بازیابی وصل است؟",
+      "آیا همین را داری و فقط تمام شده؟",
+      "آیا بدونش ۱۴ روز برنامه می‌ایستد؟",
+      "لیست سفید: وی هسته، ضدآفتاب، شامپو، یک کرم مرطوب، کفش باشگاه.",
+      "لیست زرد: ساشه شکاف، کتو اگر برگه کلینیک، ترمو فقط با پزشک.",
+      "لیست قرمز: پالت آرایش جدید، چربی‌سوز دوم، دتوکس موازی، ماسک مو سوم.",
+      "ترند ۲۰۲۵–۲۰۲۶: «کپسول واردrobe» — ده قطعه که با هم ترکیب می‌شوند.",
+      "جایگزین هیجان خرید: یک هفته در سبد آنلاین بماند؛ اگر هنوز لازم بود بخر."
+    ],
+    "g": [
+      {
+        "id": "IMG_1910",
+        "cap": "منهتن پودر",
+        "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1910_thumb.jpg",
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1910_thumb.jpg"
+      },
+      {
+        "id": "IMG_2160",
+        "cap": "زرژوف اربا پورا",
+        "src": "_thumbnails/07_Fragrance_Lifestyle/IMG_2160_thumb.jpg",
+        "href": "_thumbnails/07_Fragrance_Lifestyle/IMG_2160_thumb.jpg"
+      },
+      {
+        "id": "IMG_2627",
+        "cap": "آرم استرانگ",
+        "src": "_thumbnails/02_Protein_Sports/IMG_2627_thumb.jpg",
+        "href": "_thumbnails/02_Protein_Sports/IMG_2627_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "t": "کیفیت لوکس روزمره",
+    "d": "منظور از لوکس اینجا: یک‌بار درست بخر، هر روز استفاده کن.",
+    "l": "",
+    "s": [
+      "پایه: کفش راحت باشگاه، بطری آب ثابت، ضدآفتاب معدنی (مثل لافار ۲۸۹۰).",
+      "بو: یک عطر روزمره (اربا پورا) نه پنج بطری.",
+      "خانه: میکروفایبر و ارگانایزر میز = کمتر زمان تمیزکاری.",
+      "آرایش: یک پودر/تینت، یک ستینگ، یک ابرو — نه کارت خرده‌فروشی هر هفته.",
+      "مکمل: یک قوطی وی بزرگ بهتر از پنج ساشه برند مختلف.",
+      "الگوی خرید حاکمتی/کیفیت (عربستان، دبی، آنلاین معتبر): برچسب، تاریخ، فروشنده — نه تخفیف عجیب.",
+      "جایگزین لوکس ظاهری: خواب و پروتئین؛ روی صورت بیشتر از روی جعبه."
+    ],
+    "g": [
+      {
+        "id": "IMG_2890",
+        "cap": "ضدآفتاب معدنی لافار — SPF40+ فیزیکی؛ پوست حساس.",
+        "src": "_thumbnails/workshop/IMG_2890.JPEG",
+        "href": "_thumbnails/workshop/IMG_2890.JPEG"
+      },
+      {
+        "id": "IMG_2160",
+        "cap": "زرژوف اربا پورا",
+        "src": "_thumbnails/07_Fragrance_Lifestyle/IMG_2160_thumb.jpg",
+        "href": "_thumbnails/07_Fragrance_Lifestyle/IMG_2160_thumb.jpg"
+      },
+      {
+        "id": "IMG_2161",
+        "cap": "اربا پورا — کف",
+        "src": "_thumbnails/07_Fragrance_Lifestyle/IMG_2161_thumb.jpg",
+        "href": "_thumbnails/07_Fragrance_Lifestyle/IMG_2161_thumb.jpg"
+      },
+      {
+        "id": "IMG_2484",
+        "cap": "میز بهداشت روزانه",
+        "src": "_thumbnails/12_Household_Care/IMG_2484_thumb.jpg",
+        "href": "_thumbnails/12_Household_Care/IMG_2484_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "t": "آرایش گام‌به‌گام — ده دقیقه",
+    "d": "قبل از خروج همین ترتیب را بزن؛ زمان بگیر.",
+    "l": "",
+    "s": [
+      "۱) شستن یا micellar اگر شب آرایش مانده.",
+      "۲) مرطوب سبک — صبر ۶۰ ثانیه.",
+      "۳) ضدآفتاب — دو انگشت صورت؛ گردن.",
+      "۴) تینت یا منهتن Ivory — نازک وسط صورت، بیرون blend.",
+      "۵) پودر شیگلم فقط T و زیرچشم اگر برق داری.",
+      "۶) ابرو: سرم مایا یا ژل — ۳۰ ثانیه.",
+      "۷) رژ لب یا بالم — یک لایه.",
+      "پد سیلیکونی برای کرم‌پودر مایع اگر داری؛ نه برای لایهٔ سوم.",
+      "ترند glass skin: هیدرات + ضدآفتاب؛ جایگزین: همان تینت نازک.",
+      "ترند heavy contour: برای روز کد حذف — فقط تینت."
+    ],
+    "g": [
+      {
+        "id": "IMG_1907",
+        "cap": "پد سیلیکونی",
+        "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1907_thumb.jpg",
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1907_thumb.jpg"
+      },
+      {
+        "id": "IMG_1910",
+        "cap": "منهتن پودر",
+        "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1910_thumb.jpg",
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1910_thumb.jpg"
+      },
+      {
+        "id": "IMG_1911",
+        "cap": "منهتن — سایه",
+        "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1911_thumb.jpg",
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1911_thumb.jpg"
+      },
+      {
+        "id": "IMG_1913",
+        "cap": "مایا براون ابرو",
+        "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1913_thumb.jpg",
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1913_thumb.jpg"
+      },
+      {
+        "id": "IMG_2139",
+        "cap": "شیگلم ستینگ — بسته",
+        "src": "_thumbnails/06_Cosmetics_Makeup/IMG_2139_thumb.jpg",
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_2139_thumb.jpg"
+      },
+      {
+        "id": "IMG_2140",
+        "cap": "شیگلم — باز",
+        "src": "_thumbnails/06_Cosmetics_Makeup/IMG_2140_thumb.jpg",
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_2140_thumb.jpg"
+      },
+      {
+        "id": "IMG_2141",
+        "cap": "شیگلم — پودر شل",
+        "src": "_thumbnails/06_Cosmetics_Makeup/IMG_2141_thumb.jpg",
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_2141_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "t": "ترند و جایگزین — پوست",
+    "d": "هر ترند را با یک جایگزین ارزان‌تر/پایدارتر جفت کن.",
+    "l": "",
+    "s": [
+      "ترند: ده سرم. جایگزین: شوینده + مرطوب + ضدآفتاب.",
+      "ترند: لایه‌برداری روزانه. جایگزین: هفته‌ای یک بار اگر پوست تحمل کرد.",
+      "ترند: اسلugging. جایگزین: گلی‌سالید شب روی ناحیه خشک.",
+      "ترند: جوانساز قوی. جایگزین: خواب + SPF.",
+      "هیالو سیکا برای قرمزی؛ شیرعسل اخوی برای خشکی شدید.",
+      "جایگزین ضدآفتاب شیمیایی: معدنی SPF40+ برای حساسیت."
+    ],
+    "g": [
+      {
+        "id": "IMG_1894",
+        "cap": "کرم شیر عسل دکتر اخوی",
+        "src": "_thumbnails/04_Skincare_Body/IMG_1894_thumb.jpg",
+        "href": "_thumbnails/04_Skincare_Body/IMG_1894_thumb.jpg"
+      },
+      {
+        "id": "IMG_1895",
+        "cap": "گلی‌سالید — کف",
+        "src": "_thumbnails/04_Skincare_Body/IMG_1895_thumb.jpg",
+        "href": "_thumbnails/04_Skincare_Body/IMG_1895_thumb.jpg"
+      },
+      {
+        "id": "IMG_1914",
+        "cap": "اسکین۱۰۰۴ هیالو سیکا",
+        "src": "_thumbnails/04_Skincare_Body/IMG_1914_thumb.jpg",
+        "href": "_thumbnails/04_Skincare_Body/IMG_1914_thumb.jpg"
+      },
+      {
+        "id": "IMG_2890",
+        "cap": "ضدآفتاب معدنی لافار — SPF40+ فیزیکی؛ پوست حساس.",
+        "src": "_thumbnails/workshop/IMG_2890.JPEG",
+        "href": "_thumbnails/workshop/IMG_2890.JPEG"
+      }
+    ]
+  },
+  {
+    "t": "ترند و جایگزین — مو و بدن",
+    "d": "مو و بدن را جدا نگه دار.",
+    "l": "",
+    "s": [
+      "ترند: روغن هر روز. جایگزین: ماسک گلیس هفته‌ای یک.",
+      "ترند: رنگ مکرر. جایگزین: تونیکا موقت یا مکث تا عضله/استرس بهتر.",
+      "ترند: شامپو سه در یک سنگین. جایگزین: مایسلار + شامپو سبک.",
+      "بدن: هبی دوش ملایم؛ آرگوسول فقط پلک.",
+      "جایگزین بوتاکس/درمان گران: خواب، پروتئین، SPF — درمان پزشکی جدا."
+    ],
+    "g": [
+      {
+        "id": "IMG_1897",
+        "cap": "گلیس ماسک روغن",
+        "src": "_thumbnails/05_Hair_Color/IMG_1897_thumb.jpg",
+        "href": "_thumbnails/05_Hair_Color/IMG_1897_thumb.jpg"
+      },
+      {
+        "id": "IMG_1901",
+        "cap": "پنتن مایسلار",
+        "src": "_thumbnails/05_Hair_Color/IMG_1901_thumb.jpg",
+        "href": "_thumbnails/05_Hair_Color/IMG_1901_thumb.jpg"
+      },
+      {
+        "id": "IMG_1905",
+        "cap": "پنتن ۳ در ۱",
+        "src": "_thumbnails/05_Hair_Color/IMG_1905_thumb.jpg",
+        "href": "_thumbnails/05_Hair_Color/IMG_1905_thumb.jpg"
+      },
+      {
+        "id": "IMG_1902",
+        "cap": "هبی دوش ژل",
+        "src": "_thumbnails/12_Household_Care/IMG_1902_thumb.jpg",
+        "href": "_thumbnails/12_Household_Care/IMG_1902_thumb.jpg"
+      },
+      {
+        "id": "IMG_2142",
+        "cap": "آرگوسول — فارسی",
+        "src": "_thumbnails/12_Household_Care/IMG_2142_thumb.jpg",
+        "href": "_thumbnails/12_Household_Care/IMG_2142_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "t": "ارزش‌ها از جزوه — اجرا",
+    "d": "یک ارزش را امروز عمل کن، نه فقط بخوان.",
+    "l": "",
+    "s": [
+      "از عکس ۲۸۵۶: تعهد، نظم، ورزش، تعادل، هدفمندی.",
+      "موانع: ترس شکست، دیده شدن، قضاوت — با یک اقدام کوچک نقض کن.",
+      "قدم: یک تماس سخت، یک ست باشگاه، یک ایمیل راست.",
+      "اینوفولیک (۲۸۶۵) جزو ارزش سلامت زنان است نه باشگاه.",
+      "جایگزین جزوه بی‌پایان: یک خط در یادداشت «امروز ارزش X = عمل Y»."
+    ],
+    "g": [
+      {
+        "id": "IMG_2856",
+        "cap": "ارزش‌ها و موانع — جزوه آموزش نفت؛ تعهد، ورزش، ترس شکست.",
+        "src": "_thumbnails/workshop/IMG_2856.JPEG",
+        "href": "_thumbnails/workshop/IMG_2856.JPEG"
+      },
+      {
+        "id": "IMG_2865",
+        "cap": "اینوفولیک — میواینوزیتول ۲۰۰۰ + فولیک ۲۰۰. برای عضله نیست؛ با پزشک زنان.",
+        "src": "_thumbnails/workshop/IMG_2865.JPEG",
+        "href": "_thumbnails/workshop/IMG_2865.JPEG"
+      }
     ]
   },
   {
@@ -1363,6 +1692,48 @@ window.PERSONAL_OS_PAGES = [
     ],
     "g": [
       {
+        "id": "IMG_2131",
+        "cap": "درخواست آزمایش نیکان",
+        "src": "_thumbnails/08_Medical_Records/IMG_2131_thumb.jpg",
+        "href": "_thumbnails/08_Medical_Records/IMG_2131_thumb.jpg"
+      },
+      {
+        "id": "IMG_2232",
+        "cap": "پانورامیک دندان",
+        "src": "_thumbnails/08_Medical_Records/IMG_2232_thumb.jpg",
+        "href": "_thumbnails/08_Medical_Records/IMG_2232_thumb.jpg"
+      },
+      {
+        "id": "IMG_2241",
+        "cap": "نسخه دندان صدف",
+        "src": "_thumbnails/08_Medical_Records/IMG_2241_thumb.jpg",
+        "href": "_thumbnails/08_Medical_Records/IMG_2241_thumb.jpg"
+      },
+      {
+        "id": "IMG_2242",
+        "cap": "رسید داروخانه",
+        "src": "_thumbnails/08_Medical_Records/IMG_2242_thumb.jpg",
+        "href": "_thumbnails/08_Medical_Records/IMG_2242_thumb.jpg"
+      },
+      {
+        "id": "IMG_2602",
+        "cap": "نسخه زنان نیکان",
+        "src": "_thumbnails/08_Medical_Records/IMG_2602_thumb.jpg",
+        "href": "_thumbnails/08_Medical_Records/IMG_2602_thumb.jpg"
+      },
+      {
+        "id": "IMG_2615",
+        "cap": "رسید ویزیت زنان",
+        "src": "_thumbnails/08_Medical_Records/IMG_2615_thumb.jpg",
+        "href": "_thumbnails/08_Medical_Records/IMG_2615_thumb.jpg"
+      },
+      {
+        "id": "IMG_2209",
+        "cap": "مدارک ضامن وام",
+        "src": "_thumbnails/13_Financial_Admin/IMG_2209_thumb.jpg",
+        "href": "_thumbnails/13_Financial_Admin/IMG_2209_thumb.jpg"
+      },
+      {
         "id": "IMG_2098",
         "cap": "اینستاگرام ایلا گالری",
         "src": "_thumbnails/11_Business_Social/IMG_2098_thumb.jpg",
@@ -1384,6 +1755,12 @@ window.PERSONAL_OS_PAGES = [
       "روز چهاردهم امتیاز را اینجا بنویس."
     ],
     "g": [
+      {
+        "id": "IMG_2115",
+        "cap": "این‌بادی ۲۷۰",
+        "src": "_thumbnails/08_Medical_Records/IMG_2115_thumb.jpg",
+        "href": "_thumbnails/08_Medical_Records/IMG_2115_thumb.jpg"
+      },
       {
         "id": "IMG_2619",
         "cap": "کاله پرو — بیسکویت",
@@ -1438,12 +1815,319 @@ window.PERSONAL_OS_PAGES = [
       "دو هزار و هشتصد و پنجاه و شش: ارزش‌ها و ترس‌ها. تیتر ارزش‌ها را دیدم ولی همه خط‌ها را مطمئن نیستم.",
       "دو هزار و هشتصد و شصت و پنج را خواندم: اینوفولیک.",
       "بقیه دو هزار و هشتصد و شصت و شش تا دو هزار و نهصد و ده را یکی‌یکی کامل نخواندم.",
-      "اگر هنوز روی دیسک هستند از پوشه کارگاه دانلود کن. در آخرین بررسی، فایل‌های کارگاه از پوشه رفته بودند.",
+      "روی دیسک: d:\\Odoo\\workshop\\ — روی هر کارت بزن برای دانلود.",
+      "در گیت‌هاب: photos/workshop/ — همان شماره‌ها.",
       "برند واکسن کرونا روی هیچ عکسی نبود.",
       "اگر لایف نام قوطی جداست برچسبش را جدا ندیدم.",
-      "فایل قدیمی وی‌پی‌ان با آن اسم را در تاریخچه پیدا نکردم؛ کارگاه فنی محلی جداست.",
-      "عکس‌های دست‌نویس کارگاه روی گیت‌هاب نیستند. اگر هنوز روی گوشی‌اند بفرست تا خط به خط بخوانم.",
-      "شناسه‌های نخوانده را در یادداشت همین صفحه نگه دار."
+      "فایل قدیمی وی‌پی‌ان با آن اسم را در تاریخچه پیدا نکردم؛ کارگاه فنی محلی جداست."
+    ],
+    "g": [
+      {
+        "id": "IMG_2839",
+        "cap": "دست‌نویس کوتاه — متن کامل را مطمئن نیستم؛ تایپ کن.",
+        "src": "_thumbnails/workshop/IMG_2839.JPEG",
+        "href": "_thumbnails/workshop/IMG_2839.JPEG"
+      },
+      {
+        "id": "IMG_2840",
+        "cap": "حال بد را فرار نکن؛ خستگی لبهٔ منطقه امن؛ فشار → قشر به عادت.",
+        "src": "_thumbnails/workshop/IMG_2840.JPEG",
+        "href": "_thumbnails/workshop/IMG_2840.JPEG"
+      },
+      {
+        "id": "IMG_2845",
+        "cap": "جزوه روی کاغذ — فقط تیترها را دیدم.",
+        "src": "_thumbnails/workshop/IMG_2845.JPEG",
+        "href": "_thumbnails/workshop/IMG_2845.JPEG"
+      },
+      {
+        "id": "IMG_2856",
+        "cap": "ارزش‌ها و موانع — جزوه آموزش نفت؛ تعهد، ورزش، ترس شکست.",
+        "src": "_thumbnails/workshop/IMG_2856.JPEG",
+        "href": "_thumbnails/workshop/IMG_2856.JPEG"
+      },
+      {
+        "id": "IMG_2857",
+        "cap": "ادامهٔ ارزش/ترس — خط‌ها را کامل نخواندم.",
+        "src": "_thumbnails/workshop/IMG_2857.JPEG",
+        "href": "_thumbnails/workshop/IMG_2857.JPEG"
+      },
+      {
+        "id": "IMG_2865",
+        "cap": "اینوفولیک — میواینوزیتول ۲۰۰۰ + فولیک ۲۰۰. برای عضله نیست؛ با پزشک زنان.",
+        "src": "_thumbnails/workshop/IMG_2865.JPEG",
+        "href": "_thumbnails/workshop/IMG_2865.JPEG"
+      },
+      {
+        "id": "IMG_2866",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2866.JPEG",
+        "href": "_thumbnails/workshop/IMG_2866.JPEG"
+      },
+      {
+        "id": "IMG_2867",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2867.JPEG",
+        "href": "_thumbnails/workshop/IMG_2867.JPEG"
+      },
+      {
+        "id": "IMG_2868",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2868.JPEG",
+        "href": "_thumbnails/workshop/IMG_2868.JPEG"
+      },
+      {
+        "id": "IMG_2869",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2869.JPEG",
+        "href": "_thumbnails/workshop/IMG_2869.JPEG"
+      },
+      {
+        "id": "IMG_2870",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2870.JPEG",
+        "href": "_thumbnails/workshop/IMG_2870.JPEG"
+      },
+      {
+        "id": "IMG_2871",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2871.JPEG",
+        "href": "_thumbnails/workshop/IMG_2871.JPEG"
+      },
+      {
+        "id": "IMG_2872",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2872.JPEG",
+        "href": "_thumbnails/workshop/IMG_2872.JPEG"
+      },
+      {
+        "id": "IMG_2873",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2873.JPEG",
+        "href": "_thumbnails/workshop/IMG_2873.JPEG"
+      },
+      {
+        "id": "IMG_2874",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2874.JPEG",
+        "href": "_thumbnails/workshop/IMG_2874.JPEG"
+      },
+      {
+        "id": "IMG_2875",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2875.JPEG",
+        "href": "_thumbnails/workshop/IMG_2875.JPEG"
+      },
+      {
+        "id": "IMG_2876",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2876.JPEG",
+        "href": "_thumbnails/workshop/IMG_2876.JPEG"
+      },
+      {
+        "id": "IMG_2877",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2877.JPEG",
+        "href": "_thumbnails/workshop/IMG_2877.JPEG"
+      },
+      {
+        "id": "IMG_2878",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2878.JPEG",
+        "href": "_thumbnails/workshop/IMG_2878.JPEG"
+      },
+      {
+        "id": "IMG_2879",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2879.JPEG",
+        "href": "_thumbnails/workshop/IMG_2879.JPEG"
+      },
+      {
+        "id": "IMG_2880",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2880.JPEG",
+        "href": "_thumbnails/workshop/IMG_2880.JPEG"
+      },
+      {
+        "id": "IMG_2881",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2881.JPEG",
+        "href": "_thumbnails/workshop/IMG_2881.JPEG"
+      },
+      {
+        "id": "IMG_2882",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2882.JPEG",
+        "href": "_thumbnails/workshop/IMG_2882.JPEG"
+      },
+      {
+        "id": "IMG_2883",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2883.JPEG",
+        "href": "_thumbnails/workshop/IMG_2883.JPEG"
+      },
+      {
+        "id": "IMG_2884",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2884.JPEG",
+        "href": "_thumbnails/workshop/IMG_2884.JPEG"
+      },
+      {
+        "id": "IMG_2885",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2885.JPEG",
+        "href": "_thumbnails/workshop/IMG_2885.JPEG"
+      },
+      {
+        "id": "IMG_2886",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2886.JPEG",
+        "href": "_thumbnails/workshop/IMG_2886.JPEG"
+      },
+      {
+        "id": "IMG_2887",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2887.JPEG",
+        "href": "_thumbnails/workshop/IMG_2887.JPEG"
+      },
+      {
+        "id": "IMG_2888",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2888.JPEG",
+        "href": "_thumbnails/workshop/IMG_2888.JPEG"
+      },
+      {
+        "id": "IMG_2889",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2889.JPEG",
+        "href": "_thumbnails/workshop/IMG_2889.JPEG"
+      },
+      {
+        "id": "IMG_2890",
+        "cap": "ضدآفتاب معدنی لافار — SPF40+ فیزیکی؛ پوست حساس.",
+        "src": "_thumbnails/workshop/IMG_2890.JPEG",
+        "href": "_thumbnails/workshop/IMG_2890.JPEG"
+      },
+      {
+        "id": "IMG_2891",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2891.JPEG",
+        "href": "_thumbnails/workshop/IMG_2891.JPEG"
+      },
+      {
+        "id": "IMG_2892",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2892.JPEG",
+        "href": "_thumbnails/workshop/IMG_2892.JPEG"
+      },
+      {
+        "id": "IMG_2893",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2893.JPEG",
+        "href": "_thumbnails/workshop/IMG_2893.JPEG"
+      },
+      {
+        "id": "IMG_2894",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2894.JPEG",
+        "href": "_thumbnails/workshop/IMG_2894.JPEG"
+      },
+      {
+        "id": "IMG_2895",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2895.JPEG",
+        "href": "_thumbnails/workshop/IMG_2895.JPEG"
+      },
+      {
+        "id": "IMG_2896",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2896.JPEG",
+        "href": "_thumbnails/workshop/IMG_2896.JPEG"
+      },
+      {
+        "id": "IMG_2897",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2897.JPEG",
+        "href": "_thumbnails/workshop/IMG_2897.JPEG"
+      },
+      {
+        "id": "IMG_2898",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2898.JPEG",
+        "href": "_thumbnails/workshop/IMG_2898.JPEG"
+      },
+      {
+        "id": "IMG_2899",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2899.JPEG",
+        "href": "_thumbnails/workshop/IMG_2899.JPEG"
+      },
+      {
+        "id": "IMG_2900",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2900.JPEG",
+        "href": "_thumbnails/workshop/IMG_2900.JPEG"
+      },
+      {
+        "id": "IMG_2901",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2901.JPEG",
+        "href": "_thumbnails/workshop/IMG_2901.JPEG"
+      },
+      {
+        "id": "IMG_2902",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2902.JPEG",
+        "href": "_thumbnails/workshop/IMG_2902.JPEG"
+      },
+      {
+        "id": "IMG_2903",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2903.JPEG",
+        "href": "_thumbnails/workshop/IMG_2903.JPEG"
+      },
+      {
+        "id": "IMG_2904",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2904.JPEG",
+        "href": "_thumbnails/workshop/IMG_2904.JPEG"
+      },
+      {
+        "id": "IMG_2905",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2905.JPEG",
+        "href": "_thumbnails/workshop/IMG_2905.JPEG"
+      },
+      {
+        "id": "IMG_2906",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2906.JPEG",
+        "href": "_thumbnails/workshop/IMG_2906.JPEG"
+      },
+      {
+        "id": "IMG_2907",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2907.JPEG",
+        "href": "_thumbnails/workshop/IMG_2907.JPEG"
+      },
+      {
+        "id": "IMG_2908",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2908.JPEG",
+        "href": "_thumbnails/workshop/IMG_2908.JPEG"
+      },
+      {
+        "id": "IMG_2909",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2909.JPEG",
+        "href": "_thumbnails/workshop/IMG_2909.JPEG"
+      },
+      {
+        "id": "IMG_2910",
+        "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
+        "src": "_thumbnails/workshop/IMG_2910.JPEG",
+        "href": "_thumbnails/workshop/IMG_2910.JPEG"
+      }
     ]
   },
   {
