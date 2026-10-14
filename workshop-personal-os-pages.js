@@ -43,7 +43,7 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_2115",
         "cap": "این‌بادی ۲۷۰",
         "src": "_thumbnails/08_Medical_Records/IMG_2115_thumb.jpg",
-        "href": "photos/08_Medical_Records/IMG_2115.JPEG"
+        "href": "_thumbnails/08_Medical_Records/IMG_2115_thumb.jpg"
       }
     ]
   },
@@ -135,19 +135,19 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_2236",
         "cap": "دستور مکمل کلینیک",
         "src": "_thumbnails/09_Clinic_Nutrition/IMG_2236_thumb.jpg",
-        "href": "photos/09_Clinic_Nutrition/IMG_2236.JPEG"
+        "href": "_thumbnails/09_Clinic_Nutrition/IMG_2236_thumb.jpg"
       },
       {
         "id": "IMG_2239",
         "cap": "ناهار مدکلینیک",
         "src": "_thumbnails/09_Clinic_Nutrition/IMG_2239_thumb.jpg",
-        "href": "photos/09_Clinic_Nutrition/IMG_2239.JPEG"
+        "href": "_thumbnails/09_Clinic_Nutrition/IMG_2239_thumb.jpg"
       },
       {
         "id": "IMG_2240",
         "cap": "میان‌وعده و شام + روزه",
         "src": "_thumbnails/09_Clinic_Nutrition/IMG_2240_thumb.jpg",
-        "href": "photos/09_Clinic_Nutrition/IMG_2240.JPEG"
+        "href": "_thumbnails/09_Clinic_Nutrition/IMG_2240_thumb.jpg"
       }
     ]
   },
@@ -168,25 +168,25 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_1889",
         "cap": "نوتراکس دتوکس — جلو",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1889_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1889.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1889_thumb.jpg"
       },
       {
         "id": "IMG_1899",
         "cap": "ترمو اسلیم — جلو",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1899_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1899.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1899_thumb.jpg"
       },
       {
         "id": "IMG_2146",
         "cap": "کتو بوست — فارسی",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_2146_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_2146.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_2146_thumb.jpg"
       },
       {
         "id": "IMG_1893",
         "cap": "نوتراکس مود پلاس",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1893_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1893.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1893_thumb.jpg"
       }
     ]
   },
@@ -207,55 +207,55 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_2618",
         "cap": "کاله پرو — حقایق",
         "src": "_thumbnails/02_Protein_Sports/IMG_2618_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2618.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2618_thumb.jpg"
       },
       {
         "id": "IMG_2619",
         "cap": "کاله پرو — بیسکویت",
         "src": "_thumbnails/02_Protein_Sports/IMG_2619_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2619.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2619_thumb.jpg"
       },
       {
         "id": "IMG_2620",
         "cap": "کارن — وی ایزوله",
         "src": "_thumbnails/02_Protein_Sports/IMG_2620_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2620.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2620_thumb.jpg"
       },
       {
         "id": "IMG_2621",
         "cap": "کارن — پشت برچسب",
         "src": "_thumbnails/02_Protein_Sports/IMG_2621_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2621.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2621_thumb.jpg"
       },
       {
         "id": "IMG_2622",
         "cap": "کاله پرو — پانل",
         "src": "_thumbnails/02_Protein_Sports/IMG_2622_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2622.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2622_thumb.jpg"
       },
       {
         "id": "IMG_2623",
         "cap": "کاله پرو شکلات",
         "src": "_thumbnails/02_Protein_Sports/IMG_2623_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2623.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2623_thumb.jpg"
       },
       {
         "id": "IMG_2626",
         "cap": "وی وانیلی — فارسی",
         "src": "_thumbnails/02_Protein_Sports/IMG_2626_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2626.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2626_thumb.jpg"
       },
       {
         "id": "IMG_2627",
         "cap": "آرم استرانگ",
         "src": "_thumbnails/02_Protein_Sports/IMG_2627_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2627.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2627_thumb.jpg"
       },
       {
         "id": "IMG_2628",
         "cap": "وی وانیلی — انگلیسی",
         "src": "_thumbnails/02_Protein_Sports/IMG_2628_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2628.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2628_thumb.jpg"
       }
     ]
   },
@@ -274,49 +274,49 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_2151",
         "cap": "جاست پروتئین — پشت",
         "src": "_thumbnails/02_Protein_Sports/IMG_2151_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2151.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2151_thumb.jpg"
       },
       {
         "id": "IMG_2152",
         "cap": "جاست پروتئین — آمینواسید",
         "src": "_thumbnails/02_Protein_Sports/IMG_2152_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2152.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2152_thumb.jpg"
       },
       {
         "id": "IMG_2153",
         "cap": "جاست پروتئین — جلو",
         "src": "_thumbnails/02_Protein_Sports/IMG_2153_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2153.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2153_thumb.jpg"
       },
       {
         "id": "IMG_2154",
         "cap": "بسته پروتئین / بطری",
         "src": "_thumbnails/02_Protein_Sports/IMG_2154_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2154.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2154_thumb.jpg"
       },
       {
         "id": "IMG_2616",
         "cap": "فست میل مکس پرو — پشت",
         "src": "_thumbnails/02_Protein_Sports/IMG_2616_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2616.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2616_thumb.jpg"
       },
       {
         "id": "IMG_2617",
         "cap": "فست میل مکس پرو — جلو",
         "src": "_thumbnails/02_Protein_Sports/IMG_2617_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2617.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2617_thumb.jpg"
       },
       {
         "id": "IMG_2624",
         "cap": "فست میل — آمینواسید کامل",
         "src": "_thumbnails/02_Protein_Sports/IMG_2624_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2624.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2624_thumb.jpg"
       },
       {
         "id": "IMG_2625",
         "cap": "فست میل — مغذی‌ها",
         "src": "_thumbnails/02_Protein_Sports/IMG_2625_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2625.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2625_thumb.jpg"
       }
     ]
   },
@@ -335,25 +335,25 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_1889",
         "cap": "نوتراکس دتوکس — جلو",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1889_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1889.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1889_thumb.jpg"
       },
       {
         "id": "IMG_1890",
         "cap": "نوتراکس دتوکس — فارسی",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1890_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1890.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1890_thumb.jpg"
       },
       {
         "id": "IMG_1891",
         "cap": "نوتراکس دتوکس — زاویه",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1891_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1891.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1891_thumb.jpg"
       },
       {
         "id": "IMG_1892",
         "cap": "نوتراکس دتوکس — انگلیسی",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1892_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1892.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1892_thumb.jpg"
       }
     ]
   },
@@ -372,25 +372,25 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_1899",
         "cap": "ترمو اسلیم — جلو",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1899_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1899.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1899_thumb.jpg"
       },
       {
         "id": "IMG_1900",
         "cap": "ترمو اسلیم — ترکیبات",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1900_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1900.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1900_thumb.jpg"
       },
       {
         "id": "IMG_2149",
         "cap": "ترمو اسلیم — فارسی",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_2149_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_2149.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_2149_thumb.jpg"
       },
       {
         "id": "IMG_2150",
         "cap": "ترمو اسلیم — انگلیسی",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_2150_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_2150.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_2150_thumb.jpg"
       }
     ]
   },
@@ -408,19 +408,19 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_2146",
         "cap": "کتو بوست — فارسی",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_2146_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_2146.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_2146_thumb.jpg"
       },
       {
         "id": "IMG_2147",
         "cap": "کتو بوست — حقایق",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_2147_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_2147.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_2147_thumb.jpg"
       },
       {
         "id": "IMG_2148",
         "cap": "کتو بوست — انگلیسی",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_2148_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_2148.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_2148_thumb.jpg"
       }
     ]
   },
@@ -438,7 +438,7 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_1893",
         "cap": "نوتراکس مود پلاس",
         "src": "_thumbnails/01_Supplements_Metabolic/IMG_1893_thumb.jpg",
-        "href": "photos/01_Supplements_Metabolic/IMG_1893.JPEG"
+        "href": "_thumbnails/01_Supplements_Metabolic/IMG_1893_thumb.jpg"
       }
     ]
   },
@@ -458,55 +458,55 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_2368",
         "cap": "ویتامین سی — جلو",
         "src": "_thumbnails/03_Vitamins_Pharma/IMG_2368_thumb.jpg",
-        "href": "photos/03_Vitamins_Pharma/IMG_2368.JPEG"
+        "href": "_thumbnails/03_Vitamins_Pharma/IMG_2368_thumb.jpg"
       },
       {
         "id": "IMG_2369",
         "cap": "ویتامین سی — انگلیسی",
         "src": "_thumbnails/03_Vitamins_Pharma/IMG_2369_thumb.jpg",
-        "href": "photos/03_Vitamins_Pharma/IMG_2369.JPEG"
+        "href": "_thumbnails/03_Vitamins_Pharma/IMG_2369_thumb.jpg"
       },
       {
         "id": "IMG_2370",
         "cap": "ویتامین سی — ردیابی",
         "src": "_thumbnails/03_Vitamins_Pharma/IMG_2370_thumb.jpg",
-        "href": "photos/03_Vitamins_Pharma/IMG_2370.JPEG"
+        "href": "_thumbnails/03_Vitamins_Pharma/IMG_2370_thumb.jpg"
       },
       {
         "id": "IMG_2371",
         "cap": "ویتامین سی — فارسی",
         "src": "_thumbnails/03_Vitamins_Pharma/IMG_2371_thumb.jpg",
-        "href": "photos/03_Vitamins_Pharma/IMG_2371.JPEG"
+        "href": "_thumbnails/03_Vitamins_Pharma/IMG_2371_thumb.jpg"
       },
       {
         "id": "IMG_2372",
         "cap": "ویتامین سی — حقایق",
         "src": "_thumbnails/03_Vitamins_Pharma/IMG_2372_thumb.jpg",
-        "href": "photos/03_Vitamins_Pharma/IMG_2372.JPEG"
+        "href": "_thumbnails/03_Vitamins_Pharma/IMG_2372_thumb.jpg"
       },
       {
         "id": "IMG_2159",
         "cap": "ریفن",
         "src": "_thumbnails/03_Vitamins_Pharma/IMG_2159_thumb.jpg",
-        "href": "photos/03_Vitamins_Pharma/IMG_2159.JPEG"
+        "href": "_thumbnails/03_Vitamins_Pharma/IMG_2159_thumb.jpg"
       },
       {
         "id": "IMG_2071",
         "cap": "گاردسیل ۹ — جلو",
         "src": "_thumbnails/03_Vitamins_Pharma/IMG_2071_thumb.jpg",
-        "href": "photos/03_Vitamins_Pharma/IMG_2071.JPEG"
+        "href": "_thumbnails/03_Vitamins_Pharma/IMG_2071_thumb.jpg"
       },
       {
         "id": "IMG_2074",
         "cap": "گاردسیل ۹ — کنار",
         "src": "_thumbnails/03_Vitamins_Pharma/IMG_2074_thumb.jpg",
-        "href": "photos/03_Vitamins_Pharma/IMG_2074.JPEG"
+        "href": "_thumbnails/03_Vitamins_Pharma/IMG_2074_thumb.jpg"
       },
       {
         "id": "IMG_2629",
         "cap": "نسخه الکترونیک",
         "src": "_thumbnails/03_Vitamins_Pharma/IMG_2629_thumb.jpg",
-        "href": "photos/03_Vitamins_Pharma/IMG_2629.JPEG"
+        "href": "_thumbnails/03_Vitamins_Pharma/IMG_2629_thumb.jpg"
       }
     ]
   },
@@ -543,49 +543,49 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_3175",
         "cap": "آیروسینو ۳ — بدنه",
         "src": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3175_thumb.jpg",
-        "href": "photos/21_Coffee_Ritual_Gear/IMG_3175.JPEG"
+        "href": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3175_thumb.jpg"
       },
       {
         "id": "IMG_3176",
         "cap": "داخل و همزن",
         "src": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3176_thumb.jpg",
-        "href": "photos/21_Coffee_Ritual_Gear/IMG_3176.JPEG"
+        "href": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3176_thumb.jpg"
       },
       {
         "id": "IMG_3177",
         "cap": "پلاک مدل ۳۶۹۴",
         "src": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3177_thumb.jpg",
-        "href": "photos/21_Coffee_Ritual_Gear/IMG_3177.JPEG"
+        "href": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3177_thumb.jpg"
       },
       {
         "id": "IMG_3178",
         "cap": "دکمه روشن",
         "src": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3178_thumb.jpg",
-        "href": "photos/21_Coffee_Ritual_Gear/IMG_3178.JPEG"
+        "href": "_thumbnails/21_Coffee_Ritual_Gear/IMG_3178_thumb.jpg"
       },
       {
         "id": "IMG_2532",
         "cap": "خرده‌عادت و دیباگر کار",
         "src": "_thumbnails/10_Habits_Mind_Notes/IMG_2532_thumb.jpg",
-        "href": "photos/10_Habits_Mind_Notes/IMG_2532.JPEG"
+        "href": "_thumbnails/10_Habits_Mind_Notes/IMG_2532_thumb.jpg"
       },
       {
         "id": "IMG_2533",
         "cap": "بازبینی روزانه",
         "src": "_thumbnails/10_Habits_Mind_Notes/IMG_2533_thumb.jpg",
-        "href": "photos/10_Habits_Mind_Notes/IMG_2533.JPEG"
+        "href": "_thumbnails/10_Habits_Mind_Notes/IMG_2533_thumb.jpg"
       },
       {
         "id": "IMG_3300",
         "cap": "بیدار شدن خط قرمز",
         "src": "_thumbnails/20_Redline_Rules_Screens/IMG_3300_thumb.jpg",
-        "href": "photos/20_Redline_Rules_Screens/IMG_3300.JPEG"
+        "href": "_thumbnails/20_Redline_Rules_Screens/IMG_3300_thumb.jpg"
       },
       {
         "id": "IMG_3301",
         "cap": "شب خراب صبح ثابت",
         "src": "_thumbnails/20_Redline_Rules_Screens/IMG_3301_thumb.jpg",
-        "href": "photos/20_Redline_Rules_Screens/IMG_3301.JPEG"
+        "href": "_thumbnails/20_Redline_Rules_Screens/IMG_3301_thumb.jpg"
       }
     ]
   },
@@ -606,37 +606,37 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_1894",
         "cap": "کرم شیر عسل دکتر اخوی",
         "src": "_thumbnails/04_Skincare_Body/IMG_1894_thumb.jpg",
-        "href": "photos/04_Skincare_Body/IMG_1894.JPEG"
+        "href": "_thumbnails/04_Skincare_Body/IMG_1894_thumb.jpg"
       },
       {
         "id": "IMG_1895",
         "cap": "گلی‌سالید — کف",
         "src": "_thumbnails/04_Skincare_Body/IMG_1895_thumb.jpg",
-        "href": "photos/04_Skincare_Body/IMG_1895.JPEG"
+        "href": "_thumbnails/04_Skincare_Body/IMG_1895_thumb.jpg"
       },
       {
         "id": "IMG_2157",
         "cap": "گلی‌سالید — درب",
         "src": "_thumbnails/04_Skincare_Body/IMG_2157_thumb.jpg",
-        "href": "photos/04_Skincare_Body/IMG_2157.JPEG"
+        "href": "_thumbnails/04_Skincare_Body/IMG_2157_thumb.jpg"
       },
       {
         "id": "IMG_2158",
         "cap": "گلی‌سالید — پشت",
         "src": "_thumbnails/04_Skincare_Body/IMG_2158_thumb.jpg",
-        "href": "photos/04_Skincare_Body/IMG_2158.JPEG"
+        "href": "_thumbnails/04_Skincare_Body/IMG_2158_thumb.jpg"
       },
       {
         "id": "IMG_1914",
         "cap": "اسکین۱۰۰۴ هیالو سیکا",
         "src": "_thumbnails/04_Skincare_Body/IMG_1914_thumb.jpg",
-        "href": "photos/04_Skincare_Body/IMG_1914.JPEG"
+        "href": "_thumbnails/04_Skincare_Body/IMG_1914_thumb.jpg"
       },
       {
         "id": "IMG_2145",
         "cap": "والندان فوت کرم",
         "src": "_thumbnails/04_Skincare_Body/IMG_2145_thumb.jpg",
-        "href": "photos/04_Skincare_Body/IMG_2145.JPEG"
+        "href": "_thumbnails/04_Skincare_Body/IMG_2145_thumb.jpg"
       }
     ]
   },
@@ -656,49 +656,49 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_1897",
         "cap": "گلیس ماسک روغن",
         "src": "_thumbnails/05_Hair_Color/IMG_1897_thumb.jpg",
-        "href": "photos/05_Hair_Color/IMG_1897.JPEG"
+        "href": "_thumbnails/05_Hair_Color/IMG_1897_thumb.jpg"
       },
       {
         "id": "IMG_1898",
         "cap": "گلیس — پشت",
         "src": "_thumbnails/05_Hair_Color/IMG_1898_thumb.jpg",
-        "href": "photos/05_Hair_Color/IMG_1898.JPEG"
+        "href": "_thumbnails/05_Hair_Color/IMG_1898_thumb.jpg"
       },
       {
         "id": "IMG_1901",
         "cap": "پنتن مایسلار",
         "src": "_thumbnails/05_Hair_Color/IMG_1901_thumb.jpg",
-        "href": "photos/05_Hair_Color/IMG_1901.JPEG"
+        "href": "_thumbnails/05_Hair_Color/IMG_1901_thumb.jpg"
       },
       {
         "id": "IMG_1903",
         "cap": "تونیکا ۹٫۵۳",
         "src": "_thumbnails/05_Hair_Color/IMG_1903_thumb.jpg",
-        "href": "photos/05_Hair_Color/IMG_1903.JPEG"
+        "href": "_thumbnails/05_Hair_Color/IMG_1903_thumb.jpg"
       },
       {
         "id": "IMG_1904",
         "cap": "تونیکا — دستور",
         "src": "_thumbnails/05_Hair_Color/IMG_1904_thumb.jpg",
-        "href": "photos/05_Hair_Color/IMG_1904.JPEG"
+        "href": "_thumbnails/05_Hair_Color/IMG_1904_thumb.jpg"
       },
       {
         "id": "IMG_1905",
         "cap": "پنتن ۳ در ۱",
         "src": "_thumbnails/05_Hair_Color/IMG_1905_thumb.jpg",
-        "href": "photos/05_Hair_Color/IMG_1905.JPEG"
+        "href": "_thumbnails/05_Hair_Color/IMG_1905_thumb.jpg"
       },
       {
         "id": "IMG_1906",
         "cap": "پنتن — پشت",
         "src": "_thumbnails/05_Hair_Color/IMG_1906_thumb.jpg",
-        "href": "photos/05_Hair_Color/IMG_1906.JPEG"
+        "href": "_thumbnails/05_Hair_Color/IMG_1906_thumb.jpg"
       },
       {
         "id": "IMG_2144",
         "cap": "تونیکا — بطری",
         "src": "_thumbnails/05_Hair_Color/IMG_2144_thumb.jpg",
-        "href": "photos/05_Hair_Color/IMG_2144.JPEG"
+        "href": "_thumbnails/05_Hair_Color/IMG_2144_thumb.jpg"
       }
     ]
   },
@@ -719,61 +719,61 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_1907",
         "cap": "پد سیلیکونی",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1907_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_1907.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1907_thumb.jpg"
       },
       {
         "id": "IMG_1908",
         "cap": "پد — بسته‌بندی",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1908_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_1908.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1908_thumb.jpg"
       },
       {
         "id": "IMG_1909",
         "cap": "کایلی میکاپ تولز",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1909_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_1909.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1909_thumb.jpg"
       },
       {
         "id": "IMG_1910",
         "cap": "منهتن پودر",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1910_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_1910.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1910_thumb.jpg"
       },
       {
         "id": "IMG_1911",
         "cap": "منهتن — سایه",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1911_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_1911.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1911_thumb.jpg"
       },
       {
         "id": "IMG_1912",
         "cap": "میکاپ تینت آلمانی",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1912_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_1912.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1912_thumb.jpg"
       },
       {
         "id": "IMG_1913",
         "cap": "مایا براون ابرو",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_1913_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_1913.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_1913_thumb.jpg"
       },
       {
         "id": "IMG_2139",
         "cap": "شیگلم ستینگ — بسته",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_2139_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_2139.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_2139_thumb.jpg"
       },
       {
         "id": "IMG_2140",
         "cap": "شیگلم — باز",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_2140_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_2140.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_2140_thumb.jpg"
       },
       {
         "id": "IMG_2141",
         "cap": "شیگلم — پودر شل",
         "src": "_thumbnails/06_Cosmetics_Makeup/IMG_2141_thumb.jpg",
-        "href": "photos/06_Cosmetics_Makeup/IMG_2141.JPEG"
+        "href": "_thumbnails/06_Cosmetics_Makeup/IMG_2141_thumb.jpg"
       }
     ]
   },
@@ -793,31 +793,31 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_3165",
         "cap": "عادت و کسالت",
         "src": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3165_thumb.jpg",
-        "href": "photos/14_Atomic_Habits_Mastery/IMG_3165.JPEG"
+        "href": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3165_thumb.jpg"
       },
       {
         "id": "IMG_3166",
         "cap": "حرفه‌ای در برابر غیرحرفه‌ای",
         "src": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3166_thumb.jpg",
-        "href": "photos/14_Atomic_Habits_Mastery/IMG_3166.JPEG"
+        "href": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3166_thumb.jpg"
       },
       {
         "id": "IMG_3167",
         "cap": "تسلط از تکرار خسته‌کننده",
         "src": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3167_thumb.jpg",
-        "href": "photos/14_Atomic_Habits_Mastery/IMG_3167.JPEG"
+        "href": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3167_thumb.jpg"
       },
       {
         "id": "IMG_3168",
         "cap": "دیوید کین",
         "src": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3168_thumb.jpg",
-        "href": "photos/14_Atomic_Habits_Mastery/IMG_3168.JPEG"
+        "href": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3168_thumb.jpg"
       },
       {
         "id": "IMG_3169",
         "cap": "سه گلوله خلاصه عادت",
         "src": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3169_thumb.jpg",
-        "href": "photos/14_Atomic_Habits_Mastery/IMG_3169.JPEG"
+        "href": "_thumbnails/14_Atomic_Habits_Mastery/IMG_3169_thumb.jpg"
       }
     ]
   },
@@ -836,73 +836,73 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_3182",
         "cap": "شعر وحدت وجود",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3182_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3182.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3182_thumb.jpg"
       },
       {
         "id": "IMG_3183",
         "cap": "نمودار بودن‌کردن‌داشتن",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3183_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3183.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3183_thumb.jpg"
       },
       {
         "id": "IMG_3186",
         "cap": "مدل کامل تحول",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3186_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3186.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3186_thumb.jpg"
       },
       {
         "id": "IMG_3211",
         "cap": "فرم ۵ — اقدامات عملی",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3211_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3211.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3211_thumb.jpg"
       },
       {
         "id": "IMG_3212",
         "cap": "فرم ۶ — رهگیری هفتگی",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3212_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3212.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3212_thumb.jpg"
       },
       {
         "id": "IMG_3213",
         "cap": "نمودار مادر ارتباط",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3213_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3213.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3213_thumb.jpg"
       },
       {
         "id": "IMG_3223",
         "cap": "آفتاب مهربانی",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3223_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3223.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3223_thumb.jpg"
       },
       {
         "id": "IMG_3224",
         "cap": "فرم قربانی و مسئول",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3224_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3224.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3224_thumb.jpg"
       },
       {
         "id": "IMG_3227",
         "cap": "فرم تبادل نظر",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3227_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3227.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3227_thumb.jpg"
       },
       {
         "id": "IMG_3228",
         "cap": "فرم شماره ۱ اهداف",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3228_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3228.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3228_thumb.jpg"
       },
       {
         "id": "IMG_3230",
         "cap": "فرم شماره ۲ ترس‌ها",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3230_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3230.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3230_thumb.jpg"
       },
       {
         "id": "IMG_3231",
         "cap": "فرم شماره ۳ شبکه شناختی",
         "src": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3231_thumb.jpg",
-        "href": "photos/15_Coaching_DonayeBehtar/IMG_3231.JPEG"
+        "href": "_thumbnails/15_Coaching_DonayeBehtar/IMG_3231_thumb.jpg"
       }
     ]
   },
@@ -922,67 +922,67 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_3161",
         "cap": "پیام پر کردن برنامه",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3161_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3161.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3161_thumb.jpg"
       },
       {
         "id": "IMG_3184",
         "cap": "یادداشت روز ۲",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3184_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3184.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3184_thumb.jpg"
       },
       {
         "id": "IMG_3185",
         "cap": "ویژن و افق زمانی",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3185_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3185.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3185_thumb.jpg"
       },
       {
         "id": "IMG_3187",
         "cap": "قدم هفتم و اعتیاد",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3187_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3187.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3187_thumb.jpg"
       },
       {
         "id": "IMG_3192",
         "cap": "لیست آرایش + حقیقت",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3192_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3192.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3192_thumb.jpg"
       },
       {
         "id": "IMG_3193",
         "cap": "اراده ۱۰۰ از ۱۰۰",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3193_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3193.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3193_thumb.jpg"
       },
       {
         "id": "IMG_3194",
         "cap": "فستینگ و دوپامین + نقاب",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3194_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3194.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3194_thumb.jpg"
       },
       {
         "id": "IMG_3195",
         "cap": "کار حافظه اولین‌ها",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3195_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3195.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3195_thumb.jpg"
       },
       {
         "id": "IMG_3214",
         "cap": "ارزش‌ها و تعادل",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3214_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3214.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3214_thumb.jpg"
       },
       {
         "id": "IMG_3216",
         "cap": "قول شکسته‌شده",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3216_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3216.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3216_thumb.jpg"
       },
       {
         "id": "IMG_3229",
         "cap": "هیچ چیز ماندنی نیست",
         "src": "_thumbnails/17_Journal_Vision_Notes/IMG_3229_thumb.jpg",
-        "href": "photos/17_Journal_Vision_Notes/IMG_3229.JPEG"
+        "href": "_thumbnails/17_Journal_Vision_Notes/IMG_3229_thumb.jpg"
       }
     ]
   },
@@ -1002,55 +1002,55 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_3198",
         "cap": "جایگاه کنترل",
         "src": "_thumbnails/18_Psychology_Choice_Theory/IMG_3198_thumb.jpg",
-        "href": "photos/18_Psychology_Choice_Theory/IMG_3198.JPEG"
+        "href": "_thumbnails/18_Psychology_Choice_Theory/IMG_3198_thumb.jpg"
       },
       {
         "id": "IMG_3215",
         "cap": "کنترل درونی و استرس",
         "src": "_thumbnails/18_Psychology_Choice_Theory/IMG_3215_thumb.jpg",
-        "href": "photos/18_Psychology_Choice_Theory/IMG_3215.JPEG"
+        "href": "_thumbnails/18_Psychology_Choice_Theory/IMG_3215_thumb.jpg"
       },
       {
         "id": "IMG_3217",
         "cap": "پنج نیاز گلاسر",
         "src": "_thumbnails/18_Psychology_Choice_Theory/IMG_3217_thumb.jpg",
-        "href": "photos/18_Psychology_Choice_Theory/IMG_3217.JPEG"
+        "href": "_thumbnails/18_Psychology_Choice_Theory/IMG_3217_thumb.jpg"
       },
       {
         "id": "IMG_3219",
         "cap": "باورهای دفاعی",
         "src": "_thumbnails/18_Psychology_Choice_Theory/IMG_3219_thumb.jpg",
-        "href": "photos/18_Psychology_Choice_Theory/IMG_3219.JPEG"
+        "href": "_thumbnails/18_Psychology_Choice_Theory/IMG_3219_thumb.jpg"
       },
       {
         "id": "IMG_3220",
         "cap": "فاعل / مفعول",
         "src": "_thumbnails/18_Psychology_Choice_Theory/IMG_3220_thumb.jpg",
-        "href": "photos/18_Psychology_Choice_Theory/IMG_3220.JPEG"
+        "href": "_thumbnails/18_Psychology_Choice_Theory/IMG_3220_thumb.jpg"
       },
       {
         "id": "IMG_3221",
         "cap": "میندفولنس",
         "src": "_thumbnails/18_Psychology_Choice_Theory/IMG_3221_thumb.jpg",
-        "href": "photos/18_Psychology_Choice_Theory/IMG_3221.JPEG"
+        "href": "_thumbnails/18_Psychology_Choice_Theory/IMG_3221_thumb.jpg"
       },
       {
         "id": "IMG_3222",
         "cap": "تکنیک وقفه + فلوکستین",
         "src": "_thumbnails/18_Psychology_Choice_Theory/IMG_3222_thumb.jpg",
-        "href": "photos/18_Psychology_Choice_Theory/IMG_3222.JPEG"
+        "href": "_thumbnails/18_Psychology_Choice_Theory/IMG_3222_thumb.jpg"
       },
       {
         "id": "IMG_3225",
         "cap": "قضاوت‌درمانی",
         "src": "_thumbnails/18_Psychology_Choice_Theory/IMG_3225_thumb.jpg",
-        "href": "photos/18_Psychology_Choice_Theory/IMG_3225.JPEG"
+        "href": "_thumbnails/18_Psychology_Choice_Theory/IMG_3225_thumb.jpg"
       },
       {
         "id": "IMG_3226",
         "cap": "منطق و هستی‌شناسی",
         "src": "_thumbnails/18_Psychology_Choice_Theory/IMG_3226_thumb.jpg",
-        "href": "photos/18_Psychology_Choice_Theory/IMG_3226.JPEG"
+        "href": "_thumbnails/18_Psychology_Choice_Theory/IMG_3226_thumb.jpg"
       }
     ]
   },
@@ -1069,85 +1069,85 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_3196",
         "cap": "تکامل ۵ — قصد",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3196_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3196.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3196_thumb.jpg"
       },
       {
         "id": "IMG_3197",
         "cap": "مثلث دادار قانون آزادی عشق",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3197_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3197.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3197_thumb.jpg"
       },
       {
         "id": "IMG_3199",
         "cap": "تکامل آلن کاردک",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3199_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3199.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3199_thumb.jpg"
       },
       {
         "id": "IMG_3200",
         "cap": "تمرین فاز و استقامت",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3200_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3200.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3200_thumb.jpg"
       },
       {
         "id": "IMG_3201",
         "cap": "جلسه ۲ — پل معلول به علت",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3201_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3201.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3201_thumb.jpg"
       },
       {
         "id": "IMG_3202",
         "cap": "محتوا به‌مثابه زمینه",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3202_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3202.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3202_thumb.jpg"
       },
       {
         "id": "IMG_3203",
         "cap": "جلسه ۱۱ تعامل",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3203_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3203.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3203_thumb.jpg"
       },
       {
         "id": "IMG_3204",
         "cap": "زمینه برابر تعهد",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3204_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3204.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3204_thumb.jpg"
       },
       {
         "id": "IMG_3205",
         "cap": "۱۰۰ درصد فرش",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3205_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3205.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3205_thumb.jpg"
       },
       {
         "id": "IMG_3206",
         "cap": "ارزشی کردن ارزش‌ها",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3206_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3206.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3206_thumb.jpg"
       },
       {
         "id": "IMG_3207",
         "cap": "پذیرش مقاومت را می‌کشد",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3207_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3207.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3207_thumb.jpg"
       },
       {
         "id": "IMG_3208",
         "cap": "مثلث بودن کردن داشتن",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3208_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3208.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3208_thumb.jpg"
       },
       {
         "id": "IMG_3209",
         "cap": "موانع رابطه",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3209_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3209.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3209_thumb.jpg"
       },
       {
         "id": "IMG_3210",
         "cap": "نقطه اتصال",
         "src": "_thumbnails/19_Evolution_Course_Takamol/IMG_3210_thumb.jpg",
-        "href": "photos/19_Evolution_Course_Takamol/IMG_3210.JPEG"
+        "href": "_thumbnails/19_Evolution_Course_Takamol/IMG_3210_thumb.jpg"
       }
     ]
   },
@@ -1166,25 +1166,25 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_3188",
         "cap": "هر نفس نو می‌شود",
         "src": "_thumbnails/16_Rumi_Mystical_Poetry/IMG_3188_thumb.jpg",
-        "href": "photos/16_Rumi_Mystical_Poetry/IMG_3188.JPEG"
+        "href": "_thumbnails/16_Rumi_Mystical_Poetry/IMG_3188_thumb.jpg"
       },
       {
         "id": "IMG_3189",
         "cap": "بی‌رنگی اسیر رنگ",
         "src": "_thumbnails/16_Rumi_Mystical_Poetry/IMG_3189_thumb.jpg",
-        "href": "photos/16_Rumi_Mystical_Poetry/IMG_3189.JPEG"
+        "href": "_thumbnails/16_Rumi_Mystical_Poetry/IMG_3189_thumb.jpg"
       },
       {
         "id": "IMG_3190",
         "cap": "آب کم جو تشنگی آور",
         "src": "_thumbnails/16_Rumi_Mystical_Poetry/IMG_3190_thumb.jpg",
-        "href": "photos/16_Rumi_Mystical_Poetry/IMG_3190.JPEG"
+        "href": "_thumbnails/16_Rumi_Mystical_Poetry/IMG_3190_thumb.jpg"
       },
       {
         "id": "IMG_3191",
         "cap": "عقل دو عقل است",
         "src": "_thumbnails/16_Rumi_Mystical_Poetry/IMG_3191_thumb.jpg",
-        "href": "photos/16_Rumi_Mystical_Poetry/IMG_3191.JPEG"
+        "href": "_thumbnails/16_Rumi_Mystical_Poetry/IMG_3191_thumb.jpg"
       }
     ]
   },
@@ -1203,43 +1203,43 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_3298",
         "cap": "خط قرمز تعارف اداری",
         "src": "_thumbnails/20_Redline_Rules_Screens/IMG_3298_thumb.jpg",
-        "href": "photos/20_Redline_Rules_Screens/IMG_3298.JPEG"
+        "href": "_thumbnails/20_Redline_Rules_Screens/IMG_3298_thumb.jpg"
       },
       {
         "id": "IMG_3300",
         "cap": "بیدار شدن خط قرمز",
         "src": "_thumbnails/20_Redline_Rules_Screens/IMG_3300_thumb.jpg",
-        "href": "photos/20_Redline_Rules_Screens/IMG_3300.JPEG"
+        "href": "_thumbnails/20_Redline_Rules_Screens/IMG_3300_thumb.jpg"
       },
       {
         "id": "IMG_3301",
         "cap": "شب خراب صبح ثابت",
         "src": "_thumbnails/20_Redline_Rules_Screens/IMG_3301_thumb.jpg",
-        "href": "photos/20_Redline_Rules_Screens/IMG_3301.JPEG"
+        "href": "_thumbnails/20_Redline_Rules_Screens/IMG_3301_thumb.jpg"
       },
       {
         "id": "IMG_2060",
         "cap": "یادداشت مطالعه و ذهن",
         "src": "_thumbnails/10_Habits_Mind_Notes/IMG_2060_thumb.jpg",
-        "href": "photos/10_Habits_Mind_Notes/IMG_2060.JPEG"
+        "href": "_thumbnails/10_Habits_Mind_Notes/IMG_2060_thumb.jpg"
       },
       {
         "id": "IMG_2480",
         "cap": "نقل‌قول خودِ سیال",
         "src": "_thumbnails/10_Habits_Mind_Notes/IMG_2480_thumb.jpg",
-        "href": "photos/10_Habits_Mind_Notes/IMG_2480.JPEG"
+        "href": "_thumbnails/10_Habits_Mind_Notes/IMG_2480_thumb.jpg"
       },
       {
         "id": "IMG_2532",
         "cap": "خرده‌عادت و دیباگر کار",
         "src": "_thumbnails/10_Habits_Mind_Notes/IMG_2532_thumb.jpg",
-        "href": "photos/10_Habits_Mind_Notes/IMG_2532.JPEG"
+        "href": "_thumbnails/10_Habits_Mind_Notes/IMG_2532_thumb.jpg"
       },
       {
         "id": "IMG_2533",
         "cap": "بازبینی روزانه",
         "src": "_thumbnails/10_Habits_Mind_Notes/IMG_2533_thumb.jpg",
-        "href": "photos/10_Habits_Mind_Notes/IMG_2533.JPEG"
+        "href": "_thumbnails/10_Habits_Mind_Notes/IMG_2533_thumb.jpg"
       }
     ]
   },
@@ -1259,103 +1259,103 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_1902",
         "cap": "هبی دوش ژل",
         "src": "_thumbnails/12_Household_Care/IMG_1902_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_1902.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_1902_thumb.jpg"
       },
       {
         "id": "IMG_2142",
         "cap": "آرگوسول — فارسی",
         "src": "_thumbnails/12_Household_Care/IMG_2142_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2142.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2142_thumb.jpg"
       },
       {
         "id": "IMG_2143",
         "cap": "آرگوسول — انگلیسی",
         "src": "_thumbnails/12_Household_Care/IMG_2143_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2143.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2143_thumb.jpg"
       },
       {
         "id": "IMG_2156",
         "cap": "پاک‌کن جیر",
         "src": "_thumbnails/12_Household_Care/IMG_2156_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2156.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2156_thumb.jpg"
       },
       {
         "id": "IMG_2162",
         "cap": "یوموش جت فرش",
         "src": "_thumbnails/12_Household_Care/IMG_2162_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2162.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2162_thumb.jpg"
       },
       {
         "id": "IMG_2163",
         "cap": "یوموش — دستور",
         "src": "_thumbnails/12_Household_Care/IMG_2163_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2163.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2163_thumb.jpg"
       },
       {
         "id": "IMG_2164",
         "cap": "کلگیت دهانشویه — پشت",
         "src": "_thumbnails/12_Household_Care/IMG_2164_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2164.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2164_thumb.jpg"
       },
       {
         "id": "IMG_2165",
         "cap": "کلگیت — جلو",
         "src": "_thumbnails/12_Household_Care/IMG_2165_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2165.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2165_thumb.jpg"
       },
       {
         "id": "IMG_2166",
         "cap": "پد سیلیکونی سینه",
         "src": "_thumbnails/12_Household_Care/IMG_2166_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2166.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2166_thumb.jpg"
       },
       {
         "id": "IMG_2167",
         "cap": "دستور پد سینه",
         "src": "_thumbnails/12_Household_Care/IMG_2167_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2167.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2167_thumb.jpg"
       },
       {
         "id": "IMG_2353",
         "cap": "دستمال میکروفایبر",
         "src": "_thumbnails/12_Household_Care/IMG_2353_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2353.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2353_thumb.jpg"
       },
       {
         "id": "IMG_2484",
         "cap": "میز بهداشت روزانه",
         "src": "_thumbnails/12_Household_Care/IMG_2484_thumb.jpg",
-        "href": "photos/12_Household_Care/IMG_2484.JPEG"
+        "href": "_thumbnails/12_Household_Care/IMG_2484_thumb.jpg"
       },
       {
         "id": "IMG_1896",
         "cap": "بطری تایسو",
         "src": "_thumbnails/07_Fragrance_Lifestyle/IMG_1896_thumb.jpg",
-        "href": "photos/07_Fragrance_Lifestyle/IMG_1896.JPEG"
+        "href": "_thumbnails/07_Fragrance_Lifestyle/IMG_1896_thumb.jpg"
       },
       {
         "id": "IMG_2155",
         "cap": "بطری نوبل",
         "src": "_thumbnails/07_Fragrance_Lifestyle/IMG_2155_thumb.jpg",
-        "href": "photos/07_Fragrance_Lifestyle/IMG_2155.JPEG"
+        "href": "_thumbnails/07_Fragrance_Lifestyle/IMG_2155_thumb.jpg"
       },
       {
         "id": "IMG_2160",
         "cap": "زرژوف اربا پورا",
         "src": "_thumbnails/07_Fragrance_Lifestyle/IMG_2160_thumb.jpg",
-        "href": "photos/07_Fragrance_Lifestyle/IMG_2160.JPEG"
+        "href": "_thumbnails/07_Fragrance_Lifestyle/IMG_2160_thumb.jpg"
       },
       {
         "id": "IMG_2161",
         "cap": "اربا پورا — کف",
         "src": "_thumbnails/07_Fragrance_Lifestyle/IMG_2161_thumb.jpg",
-        "href": "photos/07_Fragrance_Lifestyle/IMG_2161.JPEG"
+        "href": "_thumbnails/07_Fragrance_Lifestyle/IMG_2161_thumb.jpg"
       },
       {
         "id": "IMG_2451",
         "cap": "چای‌ساز بایانت",
         "src": "_thumbnails/07_Fragrance_Lifestyle/IMG_2451_thumb.jpg",
-        "href": "photos/07_Fragrance_Lifestyle/IMG_2451.JPEG"
+        "href": "_thumbnails/07_Fragrance_Lifestyle/IMG_2451_thumb.jpg"
       }
     ]
   },
@@ -1374,49 +1374,49 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_2131",
         "cap": "درخواست آزمایش نیکان",
         "src": "_thumbnails/08_Medical_Records/IMG_2131_thumb.jpg",
-        "href": "photos/08_Medical_Records/IMG_2131.JPEG"
+        "href": "_thumbnails/08_Medical_Records/IMG_2131_thumb.jpg"
       },
       {
         "id": "IMG_2232",
         "cap": "پانورامیک دندان",
         "src": "_thumbnails/08_Medical_Records/IMG_2232_thumb.jpg",
-        "href": "photos/08_Medical_Records/IMG_2232.JPEG"
+        "href": "_thumbnails/08_Medical_Records/IMG_2232_thumb.jpg"
       },
       {
         "id": "IMG_2241",
         "cap": "نسخه دندان صدف",
         "src": "_thumbnails/08_Medical_Records/IMG_2241_thumb.jpg",
-        "href": "photos/08_Medical_Records/IMG_2241.JPEG"
+        "href": "_thumbnails/08_Medical_Records/IMG_2241_thumb.jpg"
       },
       {
         "id": "IMG_2242",
         "cap": "رسید داروخانه",
         "src": "_thumbnails/08_Medical_Records/IMG_2242_thumb.jpg",
-        "href": "photos/08_Medical_Records/IMG_2242.JPEG"
+        "href": "_thumbnails/08_Medical_Records/IMG_2242_thumb.jpg"
       },
       {
         "id": "IMG_2602",
         "cap": "نسخه زنان نیکان",
         "src": "_thumbnails/08_Medical_Records/IMG_2602_thumb.jpg",
-        "href": "photos/08_Medical_Records/IMG_2602.JPEG"
+        "href": "_thumbnails/08_Medical_Records/IMG_2602_thumb.jpg"
       },
       {
         "id": "IMG_2615",
         "cap": "رسید ویزیت زنان",
         "src": "_thumbnails/08_Medical_Records/IMG_2615_thumb.jpg",
-        "href": "photos/08_Medical_Records/IMG_2615.JPEG"
+        "href": "_thumbnails/08_Medical_Records/IMG_2615_thumb.jpg"
       },
       {
         "id": "IMG_2209",
         "cap": "مدارک ضامن وام",
         "src": "_thumbnails/13_Financial_Admin/IMG_2209_thumb.jpg",
-        "href": "photos/13_Financial_Admin/IMG_2209.JPEG"
+        "href": "_thumbnails/13_Financial_Admin/IMG_2209_thumb.jpg"
       },
       {
         "id": "IMG_2098",
         "cap": "اینستاگرام ایلا گالری",
         "src": "_thumbnails/11_Business_Social/IMG_2098_thumb.jpg",
-        "href": "photos/11_Business_Social/IMG_2098.JPEG"
+        "href": "_thumbnails/11_Business_Social/IMG_2098_thumb.jpg"
       }
     ]
   },
@@ -1438,19 +1438,19 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_2115",
         "cap": "این‌بادی ۲۷۰",
         "src": "_thumbnails/08_Medical_Records/IMG_2115_thumb.jpg",
-        "href": "photos/08_Medical_Records/IMG_2115.JPEG"
+        "href": "_thumbnails/08_Medical_Records/IMG_2115_thumb.jpg"
       },
       {
         "id": "IMG_2619",
         "cap": "کاله پرو — بیسکویت",
         "src": "_thumbnails/02_Protein_Sports/IMG_2619_thumb.jpg",
-        "href": "photos/02_Protein_Sports/IMG_2619.JPEG"
+        "href": "_thumbnails/02_Protein_Sports/IMG_2619_thumb.jpg"
       },
       {
         "id": "IMG_2240",
         "cap": "میان‌وعده و شام + روزه",
         "src": "_thumbnails/09_Clinic_Nutrition/IMG_2240_thumb.jpg",
-        "href": "photos/09_Clinic_Nutrition/IMG_2240.JPEG"
+        "href": "_thumbnails/09_Clinic_Nutrition/IMG_2240_thumb.jpg"
       }
     ]
   },
@@ -1479,7 +1479,7 @@ window.PERSONAL_OS_PAGES = [
         "id": "IMG_3218",
         "cap": "پنج عامل سازمان",
         "src": "_thumbnails/22_Business_Org_Notes/IMG_3218_thumb.jpg",
-        "href": "photos/22_Business_Org_Notes/IMG_3218.JPEG"
+        "href": "_thumbnails/22_Business_Org_Notes/IMG_3218_thumb.jpg"
       }
     ]
   },
@@ -1503,308 +1503,308 @@ window.PERSONAL_OS_PAGES = [
       {
         "id": "IMG_2839",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2839.JPEG",
-        "href": "workshop-photos/IMG_2839.JPEG"
+        "src": "workshop-photos/IMG_2839_thumb.jpg",
+        "href": "workshop-photos/IMG_2839_thumb.jpg"
       },
       {
         "id": "IMG_2840",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2840.JPEG",
-        "href": "workshop-photos/IMG_2840.JPEG"
+        "src": "workshop-photos/IMG_2840_thumb.jpg",
+        "href": "workshop-photos/IMG_2840_thumb.jpg"
       },
       {
         "id": "IMG_2845",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2845.JPEG",
-        "href": "workshop-photos/IMG_2845.JPEG"
+        "src": "workshop-photos/IMG_2845_thumb.jpg",
+        "href": "workshop-photos/IMG_2845_thumb.jpg"
       },
       {
         "id": "IMG_2856",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2856.JPEG",
-        "href": "workshop-photos/IMG_2856.JPEG"
+        "src": "workshop-photos/IMG_2856_thumb.jpg",
+        "href": "workshop-photos/IMG_2856_thumb.jpg"
       },
       {
         "id": "IMG_2857",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2857.JPEG",
-        "href": "workshop-photos/IMG_2857.JPEG"
+        "src": "workshop-photos/IMG_2857_thumb.jpg",
+        "href": "workshop-photos/IMG_2857_thumb.jpg"
       },
       {
         "id": "IMG_2865",
         "cap": "ساشه اینوفولیک — میواینوزیتول و فولیک. برای عضله نیست.",
-        "src": "workshop-photos/IMG_2865.JPEG",
-        "href": "workshop-photos/IMG_2865.JPEG"
+        "src": "workshop-photos/IMG_2865_thumb.jpg",
+        "href": "workshop-photos/IMG_2865_thumb.jpg"
       },
       {
         "id": "IMG_2866",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2866.JPEG",
-        "href": "workshop-photos/IMG_2866.JPEG"
+        "src": "workshop-photos/IMG_2866_thumb.jpg",
+        "href": "workshop-photos/IMG_2866_thumb.jpg"
       },
       {
         "id": "IMG_2867",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2867.JPEG",
-        "href": "workshop-photos/IMG_2867.JPEG"
+        "src": "workshop-photos/IMG_2867_thumb.jpg",
+        "href": "workshop-photos/IMG_2867_thumb.jpg"
       },
       {
         "id": "IMG_2868",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2868.JPEG",
-        "href": "workshop-photos/IMG_2868.JPEG"
+        "src": "workshop-photos/IMG_2868_thumb.jpg",
+        "href": "workshop-photos/IMG_2868_thumb.jpg"
       },
       {
         "id": "IMG_2869",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2869.JPEG",
-        "href": "workshop-photos/IMG_2869.JPEG"
+        "src": "workshop-photos/IMG_2869_thumb.jpg",
+        "href": "workshop-photos/IMG_2869_thumb.jpg"
       },
       {
         "id": "IMG_2870",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2870.JPEG",
-        "href": "workshop-photos/IMG_2870.JPEG"
+        "src": "workshop-photos/IMG_2870_thumb.jpg",
+        "href": "workshop-photos/IMG_2870_thumb.jpg"
       },
       {
         "id": "IMG_2871",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2871.JPEG",
-        "href": "workshop-photos/IMG_2871.JPEG"
+        "src": "workshop-photos/IMG_2871_thumb.jpg",
+        "href": "workshop-photos/IMG_2871_thumb.jpg"
       },
       {
         "id": "IMG_2872",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2872.JPEG",
-        "href": "workshop-photos/IMG_2872.JPEG"
+        "src": "workshop-photos/IMG_2872_thumb.jpg",
+        "href": "workshop-photos/IMG_2872_thumb.jpg"
       },
       {
         "id": "IMG_2873",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2873.JPEG",
-        "href": "workshop-photos/IMG_2873.JPEG"
+        "src": "workshop-photos/IMG_2873_thumb.jpg",
+        "href": "workshop-photos/IMG_2873_thumb.jpg"
       },
       {
         "id": "IMG_2874",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2874.JPEG",
-        "href": "workshop-photos/IMG_2874.JPEG"
+        "src": "workshop-photos/IMG_2874_thumb.jpg",
+        "href": "workshop-photos/IMG_2874_thumb.jpg"
       },
       {
         "id": "IMG_2875",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2875.JPEG",
-        "href": "workshop-photos/IMG_2875.JPEG"
+        "src": "workshop-photos/IMG_2875_thumb.jpg",
+        "href": "workshop-photos/IMG_2875_thumb.jpg"
       },
       {
         "id": "IMG_2876",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2876.JPEG",
-        "href": "workshop-photos/IMG_2876.JPEG"
+        "src": "workshop-photos/IMG_2876_thumb.jpg",
+        "href": "workshop-photos/IMG_2876_thumb.jpg"
       },
       {
         "id": "IMG_2877",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2877.JPEG",
-        "href": "workshop-photos/IMG_2877.JPEG"
+        "src": "workshop-photos/IMG_2877_thumb.jpg",
+        "href": "workshop-photos/IMG_2877_thumb.jpg"
       },
       {
         "id": "IMG_2878",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2878.JPEG",
-        "href": "workshop-photos/IMG_2878.JPEG"
+        "src": "workshop-photos/IMG_2878_thumb.jpg",
+        "href": "workshop-photos/IMG_2878_thumb.jpg"
       },
       {
         "id": "IMG_2879",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2879.JPEG",
-        "href": "workshop-photos/IMG_2879.JPEG"
+        "src": "workshop-photos/IMG_2879_thumb.jpg",
+        "href": "workshop-photos/IMG_2879_thumb.jpg"
       },
       {
         "id": "IMG_2880",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2880.JPEG",
-        "href": "workshop-photos/IMG_2880.JPEG"
+        "src": "workshop-photos/IMG_2880_thumb.jpg",
+        "href": "workshop-photos/IMG_2880_thumb.jpg"
       },
       {
         "id": "IMG_2881",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2881.JPEG",
-        "href": "workshop-photos/IMG_2881.JPEG"
+        "src": "workshop-photos/IMG_2881_thumb.jpg",
+        "href": "workshop-photos/IMG_2881_thumb.jpg"
       },
       {
         "id": "IMG_2882",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2882.JPEG",
-        "href": "workshop-photos/IMG_2882.JPEG"
+        "src": "workshop-photos/IMG_2882_thumb.jpg",
+        "href": "workshop-photos/IMG_2882_thumb.jpg"
       },
       {
         "id": "IMG_2883",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2883.JPEG",
-        "href": "workshop-photos/IMG_2883.JPEG"
+        "src": "workshop-photos/IMG_2883_thumb.jpg",
+        "href": "workshop-photos/IMG_2883_thumb.jpg"
       },
       {
         "id": "IMG_2884",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2884.JPEG",
-        "href": "workshop-photos/IMG_2884.JPEG"
+        "src": "workshop-photos/IMG_2884_thumb.jpg",
+        "href": "workshop-photos/IMG_2884_thumb.jpg"
       },
       {
         "id": "IMG_2885",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2885.JPEG",
-        "href": "workshop-photos/IMG_2885.JPEG"
+        "src": "workshop-photos/IMG_2885_thumb.jpg",
+        "href": "workshop-photos/IMG_2885_thumb.jpg"
       },
       {
         "id": "IMG_2886",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2886.JPEG",
-        "href": "workshop-photos/IMG_2886.JPEG"
+        "src": "workshop-photos/IMG_2886_thumb.jpg",
+        "href": "workshop-photos/IMG_2886_thumb.jpg"
       },
       {
         "id": "IMG_2887",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2887.JPEG",
-        "href": "workshop-photos/IMG_2887.JPEG"
+        "src": "workshop-photos/IMG_2887_thumb.jpg",
+        "href": "workshop-photos/IMG_2887_thumb.jpg"
       },
       {
         "id": "IMG_2888",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2888.JPEG",
-        "href": "workshop-photos/IMG_2888.JPEG"
+        "src": "workshop-photos/IMG_2888_thumb.jpg",
+        "href": "workshop-photos/IMG_2888_thumb.jpg"
       },
       {
         "id": "IMG_2889",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2889.JPEG",
-        "href": "workshop-photos/IMG_2889.JPEG"
+        "src": "workshop-photos/IMG_2889_thumb.jpg",
+        "href": "workshop-photos/IMG_2889_thumb.jpg"
       },
       {
         "id": "IMG_2890",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2890.JPEG",
-        "href": "workshop-photos/IMG_2890.JPEG"
+        "src": "workshop-photos/IMG_2890_thumb.jpg",
+        "href": "workshop-photos/IMG_2890_thumb.jpg"
       },
       {
         "id": "IMG_2891",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2891.JPEG",
-        "href": "workshop-photos/IMG_2891.JPEG"
+        "src": "workshop-photos/IMG_2891_thumb.jpg",
+        "href": "workshop-photos/IMG_2891_thumb.jpg"
       },
       {
         "id": "IMG_2892",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2892.JPEG",
-        "href": "workshop-photos/IMG_2892.JPEG"
+        "src": "workshop-photos/IMG_2892_thumb.jpg",
+        "href": "workshop-photos/IMG_2892_thumb.jpg"
       },
       {
         "id": "IMG_2893",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2893.JPEG",
-        "href": "workshop-photos/IMG_2893.JPEG"
+        "src": "workshop-photos/IMG_2893_thumb.jpg",
+        "href": "workshop-photos/IMG_2893_thumb.jpg"
       },
       {
         "id": "IMG_2894",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2894.JPEG",
-        "href": "workshop-photos/IMG_2894.JPEG"
+        "src": "workshop-photos/IMG_2894_thumb.jpg",
+        "href": "workshop-photos/IMG_2894_thumb.jpg"
       },
       {
         "id": "IMG_2895",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2895.JPEG",
-        "href": "workshop-photos/IMG_2895.JPEG"
+        "src": "workshop-photos/IMG_2895_thumb.jpg",
+        "href": "workshop-photos/IMG_2895_thumb.jpg"
       },
       {
         "id": "IMG_2896",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2896.JPEG",
-        "href": "workshop-photos/IMG_2896.JPEG"
+        "src": "workshop-photos/IMG_2896_thumb.jpg",
+        "href": "workshop-photos/IMG_2896_thumb.jpg"
       },
       {
         "id": "IMG_2897",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2897.JPEG",
-        "href": "workshop-photos/IMG_2897.JPEG"
+        "src": "workshop-photos/IMG_2897_thumb.jpg",
+        "href": "workshop-photos/IMG_2897_thumb.jpg"
       },
       {
         "id": "IMG_2898",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2898.JPEG",
-        "href": "workshop-photos/IMG_2898.JPEG"
+        "src": "workshop-photos/IMG_2898_thumb.jpg",
+        "href": "workshop-photos/IMG_2898_thumb.jpg"
       },
       {
         "id": "IMG_2899",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2899.JPEG",
-        "href": "workshop-photos/IMG_2899.JPEG"
+        "src": "workshop-photos/IMG_2899_thumb.jpg",
+        "href": "workshop-photos/IMG_2899_thumb.jpg"
       },
       {
         "id": "IMG_2900",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2900.JPEG",
-        "href": "workshop-photos/IMG_2900.JPEG"
+        "src": "workshop-photos/IMG_2900_thumb.jpg",
+        "href": "workshop-photos/IMG_2900_thumb.jpg"
       },
       {
         "id": "IMG_2901",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2901.JPEG",
-        "href": "workshop-photos/IMG_2901.JPEG"
+        "src": "workshop-photos/IMG_2901_thumb.jpg",
+        "href": "workshop-photos/IMG_2901_thumb.jpg"
       },
       {
         "id": "IMG_2902",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2902.JPEG",
-        "href": "workshop-photos/IMG_2902.JPEG"
+        "src": "workshop-photos/IMG_2902_thumb.jpg",
+        "href": "workshop-photos/IMG_2902_thumb.jpg"
       },
       {
         "id": "IMG_2903",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2903.JPEG",
-        "href": "workshop-photos/IMG_2903.JPEG"
+        "src": "workshop-photos/IMG_2903_thumb.jpg",
+        "href": "workshop-photos/IMG_2903_thumb.jpg"
       },
       {
         "id": "IMG_2904",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2904.JPEG",
-        "href": "workshop-photos/IMG_2904.JPEG"
+        "src": "workshop-photos/IMG_2904_thumb.jpg",
+        "href": "workshop-photos/IMG_2904_thumb.jpg"
       },
       {
         "id": "IMG_2905",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2905.JPEG",
-        "href": "workshop-photos/IMG_2905.JPEG"
+        "src": "workshop-photos/IMG_2905_thumb.jpg",
+        "href": "workshop-photos/IMG_2905_thumb.jpg"
       },
       {
         "id": "IMG_2906",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2906.JPEG",
-        "href": "workshop-photos/IMG_2906.JPEG"
+        "src": "workshop-photos/IMG_2906_thumb.jpg",
+        "href": "workshop-photos/IMG_2906_thumb.jpg"
       },
       {
         "id": "IMG_2907",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2907.JPEG",
-        "href": "workshop-photos/IMG_2907.JPEG"
+        "src": "workshop-photos/IMG_2907_thumb.jpg",
+        "href": "workshop-photos/IMG_2907_thumb.jpg"
       },
       {
         "id": "IMG_2908",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2908.JPEG",
-        "href": "workshop-photos/IMG_2908.JPEG"
+        "src": "workshop-photos/IMG_2908_thumb.jpg",
+        "href": "workshop-photos/IMG_2908_thumb.jpg"
       },
       {
         "id": "IMG_2909",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2909.JPEG",
-        "href": "workshop-photos/IMG_2909.JPEG"
+        "src": "workshop-photos/IMG_2909_thumb.jpg",
+        "href": "workshop-photos/IMG_2909_thumb.jpg"
       },
       {
         "id": "IMG_2910",
         "cap": "دست‌نویس یا جزوه — نیاز به توضیح تو",
-        "src": "workshop-photos/IMG_2910.JPEG",
-        "href": "workshop-photos/IMG_2910.JPEG"
+        "src": "workshop-photos/IMG_2910_thumb.jpg",
+        "href": "workshop-photos/IMG_2910_thumb.jpg"
       }
     ]
   },
